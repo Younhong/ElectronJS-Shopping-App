@@ -1,0 +1,22 @@
+{
+  "name": "electron-shopping",
+  "version": "1.0.0",
+  "description": "ElectronJS Shopping App",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Younhong/ElectronJS-Shopping-App.git"
+  },
+  "author": "Younhong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Younhong/ElectronJS-Shopping-App/issues"
+  },
+  "homepage": "https://github.com/Younhong/ElectronJS-Shopping-App#readme",
+  "dependencies": {
+    "electron": "^11.2.0"
+  }
+}
