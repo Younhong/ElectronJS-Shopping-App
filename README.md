@@ -5,19 +5,21 @@
 npm run start
 ```
 
-## Build
+## Build Desktop App
 
-### Mac
+* Mac
 ```
 npm run package-mac
 ```
 
-### Linux
+* Linux
 ```
 npm run package-linux
 ```
 
-### Window
+* Window
 ```
 npm run package-window
 ```
+
+* Executable Files are in release-builds folder
